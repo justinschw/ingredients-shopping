@@ -1,0 +1,27 @@
+{
+  "name": "ingredients-shopping",
+  "version": "1.0.0",
+  "description": "Library for parsing ingredient lintes into shopping lists",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinschw/ingredients-shopping.git"
+  },
+  "keywords": [
+    "cooking",
+    "parse",
+    "ingredients"
+  ],
+  "author": "Justin Schwartzbeck (justinmschw@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinschw/ingredients-shopping/issues"
+  },
+  "homepage": "https://github.com/justinschw/ingredients-shopping#readme",
+  "dependencies": {
+    "ingredients-parse-crf": "^1.0.0"
+  }
+}
